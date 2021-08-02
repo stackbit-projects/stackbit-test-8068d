@@ -25,6 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Absolute
+  align: left
     features: []
     type: features_section
   - type: features_section

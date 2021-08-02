@@ -31,7 +31,7 @@ sections:
     subtitle: company profile
     actions: []
     has_background: false
-    background_color: white
+    background_color: gray
     type: cta_section
   - type: features_section
     title: Features

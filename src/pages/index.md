@@ -30,7 +30,7 @@ sections:
   - title: Absolute
     subtitle: company profile
     actions: []
-    has_background: true
+    has_background: false
     background_color: white
     type: cta_section
   - type: features_section

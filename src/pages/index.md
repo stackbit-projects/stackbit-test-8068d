@@ -27,7 +27,7 @@ sections:
   - title: Absolute
     features: []
     type: features_section
-  - title: lorem-ipsum
+  - title: Absolute
     subtitle: lorem-ipsum
     actions: []
     has_background: true

@@ -27,7 +27,7 @@ sections:
   - title: Absolute
     subtitle: company profile
     actions: []
-    has_background: false
+    has_background: true
     background_color: blue
     type: cta_section
   - type: features_section

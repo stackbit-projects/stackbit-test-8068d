@@ -27,7 +27,7 @@ sections:
   - title: Absolute
     subtitle: company profile
     actions:
-      - label: lorem-ipsum
+      - label: Iniziamo
         url: '#'
         style: link
         new_window: false

@@ -24,6 +24,9 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - title: lorem-ipsum
+    features: []
+    type: features_section
   - type: features_section
     title: Features
     features:
@@ -81,9 +84,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: lorem-ipsum
-    features: []
-    type: features_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme

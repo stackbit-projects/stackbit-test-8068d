@@ -25,9 +25,6 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - title: Absolute
-    features: []
-    type: features_section
-  - title: Absolute
     subtitle: company profile
     actions: []
     has_background: false

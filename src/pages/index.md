@@ -81,6 +81,9 @@ sections:
         style: primary
     has_background: true
     background_color: gray
+  - title: lorem-ipsum
+    features: []
+    type: features_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme

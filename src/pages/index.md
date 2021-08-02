@@ -26,7 +26,13 @@ sections:
       background_image_repeat: repeat
   - title: Absolute
     subtitle: company profile
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: true
     background_color: blue
     type: cta_section

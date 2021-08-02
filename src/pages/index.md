@@ -28,7 +28,7 @@ sections:
     features: []
     type: features_section
   - title: Absolute
-    subtitle: lorem-ipsum
+    subtitle: company profile
     actions: []
     has_background: true
     background_color: white
